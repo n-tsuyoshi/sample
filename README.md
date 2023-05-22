@@ -20,3 +20,7 @@ https://github.com/n-tsuyoshi/sample/blob/a636ad6658e25ee6595aebca0fde52c15342e4
 `if`で実際にどんな条件分岐にすればしゃがんだ時だけ花火を挙げられるかを考えるのが難しかったですが、
 
 実際にGoogleで調べて学んでいくうちに少し、条件分岐について理解することができて表現することができました。
+
+## 開発した環境
+Minecraft ver.1.19.4
+JDK ver.Oracle OpenJDK 17.0.7
