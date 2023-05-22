@@ -14,4 +14,9 @@ https://github.com/n-tsuyoshi/sample/blob/5df08e9fb066a3220b23483adf8d2ac6a1c488
 
 以下、実際のコード
 
+https://github.com/n-tsuyoshi/sample/blob/a636ad6658e25ee6595aebca0fde52c15342e464/src/main/java/plugin/sample/Main.java#LL77C5-L87C1
+
 ## ハマった点
+`if`で実際にどんな条件分岐にすればしゃがんだ時だけ花火を挙げられるかを考えるのが難しかったですが、
+
+実際にGoogleで調べて学んでいくうちに少し、条件分岐について理解することができて表現することができました。
